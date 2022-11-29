@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a12e5903138f27042aad7c0f07d1bbb7
+guid: 30af5cc7cf80944439fd374c1a1bcb43
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 84
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_0
+      name: Iceball_84x9_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
-        width: 64
-        height: 64
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc604a5a7f438e7459de7ca4b29d6976
-      internalID: 1477501020
+      spriteID: 9a3a5a8143ccb4648938c2105161f3c7
+      internalID: 1085401508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_1
+      name: Iceball_84x9_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
-        width: 64
-        height: 64
+        x: 84
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70bfbc38d8667044c843d98d9a138fb3
-      internalID: -202326013
+      spriteID: 299542bc624db3047ab43aca8526eed7
+      internalID: 486685671
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_2
+      name: Iceball_84x9_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
-        width: 64
-        height: 64
+        x: 168
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6282ccb0d9d3a7458d38aade749a8e3
-      internalID: 1895275889
+      spriteID: dbeb54ae57ab58943b6a09f760dc9e43
+      internalID: 1833326085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_3
+      name: Iceball_84x9_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
-        width: 64
-        height: 64
+        x: 252
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6af6e69ea6d8fa42bfe611f364cc7a7
-      internalID: -640834469
+      spriteID: 78c8c5af21d73894d9302cb7db8ed574
+      internalID: 797783605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_4
+      name: Iceball_84x9_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
+        x: 336
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03ebcfac4a7326a4d94cf0cb2b2204e9
-      internalID: 1266624439
+      spriteID: 669a46602c0cc46498d945e7222ab794
+      internalID: 1055922259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_5
+      name: Iceball_84x9_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
-        width: 64
-        height: 64
+        x: 420
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df529eebec878bb42b6bd541bfdd3119
-      internalID: 1694431166
+      spriteID: 7a9372f4b5b0b5e498c782edcc5b6ac5
+      internalID: 877845465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_6
+      name: Iceball_84x9_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 512
-        width: 64
-        height: 64
+        x: 504
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4e7c90adf4c91d40a00b9ffeadec5cf
-      internalID: 338768908
+      spriteID: 1e72b26b7ca57cc42bb751b27d77e38e
+      internalID: -17577081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_7
+      name: Iceball_84x9_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 512
-        width: 64
-        height: 64
+        x: 588
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ada5cbadcdb53854789ab5134aa061c2
-      internalID: -1046864359
+      spriteID: 3675f708015b4d94d9fa0d43d4c05594
+      internalID: 888131187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_8
+      name: Iceball_84x9_8
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 64
-        height: 64
+        x: 672
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8efbf6e90c707b48b02afe45cfc0a4c
-      internalID: 1744368976
+      spriteID: 923b3abc0514ea748959ab681489ccf3
+      internalID: 431375236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_9
+      name: Iceball_84x9_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 64
-        height: 64
+        x: 756
+        y: 54
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,188 +319,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6a32c476eb57334592df86d77dc7a21
-      internalID: -660200614
+      spriteID: eae252d8452d84f4487f330cb6fd2c07
+      internalID: 2079028461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e664621fe950ebe428d004b3d984c965
-      internalID: 1646574207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_11
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c9471d9852788a41a96f60cf8058b57
-      internalID: -2069059118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_12
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4b62825f22982848ad51e747c45b35f
-      internalID: -348555325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_13
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ab6c2417a4207e489444b776b8fd92c
-      internalID: 2047388636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_14
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c102e1c59db41684d9cdf2da2bd35b18
-      internalID: 886998414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_15
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45586ad77d5be674e802b28904703c76
-      internalID: 1991053285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_16
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: de0576002d93827439f785081a7eeb84
-      internalID: 696388285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_17
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 448
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 094b7a69e7a34424188c9b77755b6eea
-      internalID: 2057884732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_18
+      name: Iceball_84x9_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
-        width: 64
-        height: 64
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,20 +340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b90fd8257394e54419c80fc33b0e073c
-      internalID: -393420234
+      spriteID: a2534f45d2ae64548b6757f3801cc165
+      internalID: 1823124279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_19
+      name: Iceball_84x9_11
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
+        x: 84
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,20 +361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fda75668698f7d942b9e4f543f9ed606
-      internalID: -1296814748
+      spriteID: c8a0b9e90b0c679409d7808c5b1e83fa
+      internalID: 1073588617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_20
+      name: Iceball_84x9_12
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 64
-        height: 64
+        x: 168
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,20 +382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50b33a25dfb4a1940b8eecaa3a10eccc
-      internalID: 147388463
+      spriteID: 41399d539c8327b40b91376e260d581f
+      internalID: 429874279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_21
+      name: Iceball_84x9_13
       rect:
         serializedVersion: 2
-        x: 512
-        y: 384
-        width: 64
-        height: 64
+        x: 252
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,20 +403,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d2a476dfa2ac794da89f0c09e1a6790
-      internalID: -1485669017
+      spriteID: 5053be8f7dadf724dacb2475e27ce1fe
+      internalID: -1226935623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_22
+      name: Iceball_84x9_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 320
-        width: 64
-        height: 64
+        x: 336
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -592,20 +424,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 268a96af6d5f19d4bbd7800a40333efc
-      internalID: -227228833
+      spriteID: 91e6a8220d78dcf47adca94dec202cb9
+      internalID: 57376624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_23
+      name: Iceball_84x9_15
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
+        x: 420
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -613,20 +445,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 057517fcb4355bb45a54c89e17affaac
-      internalID: 1449197059
+      spriteID: ef83747ac25026e4ca1caa3a2c8229a2
+      internalID: 352560596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_24
+      name: Iceball_84x9_16
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
-        width: 64
-        height: 64
+        x: 504
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -634,20 +466,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a80e325b317a4064ab9bafad89a20cb4
-      internalID: -1855490397
+      spriteID: 1b3cc6e1c36ee6e4a951e45ef77c6a59
+      internalID: -245184620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_25
+      name: Iceball_84x9_17
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
+        x: 588
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,20 +487,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94a1b48d26c11bb4daf4160151fe4caf
-      internalID: -1143773797
+      spriteID: 88c5722e8c95d9a45b3fa0b08095d21b
+      internalID: -525260135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_26
+      name: Iceball_84x9_18
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
+        x: 672
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -676,20 +508,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5f7c29580226224492a5c0e80a209aa
-      internalID: -1906011001
+      spriteID: 7bdea0945df4087468c8b866f44fd2e0
+      internalID: -920737457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_27
+      name: Iceball_84x9_19
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 756
+        y: 45
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -697,83 +529,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15173b14fea5f024ab1edf368870d078
-      internalID: 1946119480
+      spriteID: e6ab8ba5629f68645b297b3843bd203e
+      internalID: -371201739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_28
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c4aaf3d5c376e645b088f46c617d39e
-      internalID: -909273311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_29
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 72ec990a256a18643be49437ca5068ad
-      internalID: -391158206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_30
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 320
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc6e4b951538e65478eda5381f03e070
-      internalID: 1369202104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_31
+      name: Iceball_84x9_20
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 64
-        height: 64
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,20 +550,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ea61d69704df19429e38964a6413903
-      internalID: -1005132838
+      spriteID: ce7a0751e213c1b4d9731e7ca000ed2b
+      internalID: 2094149185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_32
+      name: Iceball_84x9_21
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 84
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -802,20 +571,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4381a6eaa8c52f84e93cae73d563dedc
-      internalID: -978687883
+      spriteID: b72aef12dc3737242b223c1076316ee3
+      internalID: 668770431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_33
+      name: Iceball_84x9_22
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
+        x: 168
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -823,20 +592,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccf019ba3e6be934b8ccbd593a7ab004
-      internalID: -454238725
+      spriteID: dc05efcda71bd494e8fdf91a89b17e55
+      internalID: -319852483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_34
+      name: Iceball_84x9_23
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
-        width: 64
-        height: 64
+        x: 252
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -844,20 +613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a95fe9eb325540841acda6ce4232a1ac
-      internalID: -1877575352
+      spriteID: a17b0e021567a104b88b49159cde3229
+      internalID: 1221095669
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_35
+      name: Iceball_84x9_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 64
-        height: 64
+        x: 336
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -865,20 +634,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db695eae452067a4ba2807d87163c574
-      internalID: -602633011
+      spriteID: 9e7fd1060c7fbea479eb5ecac79357e2
+      internalID: -1455585614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_36
+      name: Iceball_84x9_25
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 420
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -886,20 +655,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0af9cc4e78570f438fd6291308de9aa
-      internalID: -819363765
+      spriteID: 8fc406b47ad0e8f449046be52b67fccd
+      internalID: -2105174839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_37
+      name: Iceball_84x9_26
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 504
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -907,20 +676,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb7478c6564882047b1ad02fd9fb8d4b
-      internalID: -1696871992
+      spriteID: 1124912c314fee9419529e9975a047f7
+      internalID: -1990634772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_38
+      name: Iceball_84x9_27
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 588
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -928,20 +697,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 096be00c36f4348488faed436dae656b
-      internalID: 885079621
+      spriteID: 9301a7d5cfc5d554f8a3cf9c3234f4f4
+      internalID: -1215501471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_39
+      name: Iceball_84x9_28
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
-        width: 64
-        height: 64
+        x: 672
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -949,20 +718,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d41200766753e014dbf98e8eb945ffa8
-      internalID: -2102254771
+      spriteID: d7a6b1fb8900fdb4ea01ef6e32fbbfe3
+      internalID: 1302996900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_40
+      name: Iceball_84x9_29
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
+        x: 756
+        y: 36
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -970,188 +739,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1917874b58bed3144a856d72fb607309
-      internalID: -95478381
+      spriteID: c50769f1235317041b8052680d00cb26
+      internalID: 989181723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_41
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28a6da002eb6dd648865d7356fd20d16
-      internalID: 70694566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_42
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f4e47688acb8934b8e5213127f3ac43
-      internalID: 405000648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_43
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c75faf94f3f7ce429dc022e913a9591
-      internalID: -1148330567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_44
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f5e48c3f8810a443aa010bc2d235970
-      internalID: -623201394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_45
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c799767f7ab7d944a989e0bb9a8f4196
-      internalID: 1219937624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_46
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4bbd850ffd78254a98e895e653ca398
-      internalID: 1441571957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_47
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3066e276fa441674baec6b21382697af
-      internalID: -1930542876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_48
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 128
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 443a1ac23d1b58a46881ce0f4cc59412
-      internalID: 623718429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_49
+      name: Iceball_84x9_30
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 64
-        height: 64
+        y: 27
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1159,20 +760,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e65329b43f8318348b80c5edcf95de24
-      internalID: 1225198649
+      spriteID: 4db1c1fc4e07f864bafef30d78c00f80
+      internalID: -402070392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_50
+      name: Iceball_84x9_31
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 84
+        y: 27
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,20 +781,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35570cd8e0335994c91bc442c82b6639
-      internalID: 1054360105
+      spriteID: 5ba9e25870c8402499c48c726895fcc8
+      internalID: -107712643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_51
+      name: Iceball_84x9_32
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 168
+        y: 27
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1201,20 +802,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e08b66fa178d4e409383264deafe2c5
-      internalID: 1104816087
+      spriteID: 747005c151945424a9f64a8d5b38851f
+      internalID: -152046199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_52
+      name: Iceball_84x9_33
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 252
+        y: 27
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1222,20 +823,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd3baa766d987754ca16fdd3694a7c79
-      internalID: -1234422113
+      spriteID: 5a9852f35211eb54881d8020f08f368f
+      internalID: 667465027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_53
+      name: Iceball_84x9_34
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
+        x: 336
+        y: 27
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,20 +844,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a52688ef4278845863505381af785b
-      internalID: -801912630
+      spriteID: bbd272d63086f144fb8d71223835dcd1
+      internalID: -486401580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_54
+      name: Iceball_84x9_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575585eb4e45a2d4bb4717f119e88839
+      internalID: -943872461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494cebee6e4c7264fa9fb8f68d6ee1c1
+      internalID: -1441874423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_37
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b50eba7e27ec34d8162283b3553a23
+      internalID: 818171370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98c70dc330c28409298442f5bf186a
+      internalID: -1949261780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_39
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 27
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310e4fe5964dbc46b9d73378935fa3e
+      internalID: 1944829054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_40
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 64
-        height: 64
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,20 +970,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b7c63f50a8a23f4080777b47e16f156
-      internalID: 1059620675
+      spriteID: 3adf373eecfcf8b4c9398873a264e2dd
+      internalID: -74106625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_55
+      name: Iceball_84x9_41
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 84
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1285,20 +991,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e6e5889d64b21b47b20e7068263fe4a
-      internalID: 938990947
+      spriteID: 733402063183dc440ba9591b48c950d7
+      internalID: 1059305644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_56
+      name: Iceball_84x9_42
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 168
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,20 +1012,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7934f31c2836c994baddf0ef3838a81c
-      internalID: -306672603
+      spriteID: dad313291fcd39741931bfa526706056
+      internalID: -608218153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_57
+      name: Iceball_84x9_43
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
+        x: 252
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1327,20 +1033,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b243cff63c2e8e49b81772e35d89fda
-      internalID: 407890096
+      spriteID: f8ef091e3e0baea4f889e0d54c8c7625
+      internalID: -785199065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_58
+      name: Iceball_84x9_44
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
+        x: 336
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1348,20 +1054,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 19a7597bc0e75b94d8f9777437b46f49
-      internalID: -1624540893
+      spriteID: 5bf664513a0ee6a4484b48f5a0e39978
+      internalID: -240165220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_59
+      name: Iceball_84x9_45
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
+        x: 420
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1369,20 +1075,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7b6213e8e355804dbc73a328f86ac2e
-      internalID: -888169317
+      spriteID: 0188eb4edeff92147b59bb3ce26159b9
+      internalID: -1248023176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_60
+      name: Iceball_84x9_46
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 64
+        x: 504
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1390,20 +1096,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7d8bb6af46cd474391e64bbf4adc443
-      internalID: 2119222507
+      spriteID: 5dcfc537d2c0cf8468146fec4e4c318c
+      internalID: 644822182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_61
+      name: Iceball_84x9_47
       rect:
         serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 64
+        x: 588
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1411,20 +1117,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7b3d1fa3504df14e8a8ce9fa5abefdc
-      internalID: 1858516624
+      spriteID: 9bc1993c6c7d0494ca9a8ac12117e2c1
+      internalID: 599460733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: charlieTheCapybaraAnimationSheet_62
+      name: Iceball_84x9_48
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 64
-        height: 64
+        x: 672
+        y: 18
+        width: 84
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1432,8 +1138,239 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b73d0f5dfe1669c40ad59d4ea363c2fa
-      internalID: -1606451254
+      spriteID: f53de1bb36985cc48a4cdfcf0cd3b34b
+      internalID: 1300038200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 18
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4869935c20774fac806ee48ed46d2
+      internalID: 195356710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1caa9852c40842a5b9a05e6f70f31
+      internalID: 362275794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff85dac7a2c53a40b7d7cf4f3fa5d1d
+      internalID: -1496914781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc4eab3e9c441d4e9ace7478e15d3e9
+      internalID: -575173986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b8628c4c259b43baccff2342f2301
+      internalID: -355750620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd633e6394bb77a4a82223d88e287691
+      internalID: 1219498567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0e508d843fa940ac3dc7e8149bbde
+      internalID: 285626835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7e153ff48cf14cb638800e1f645bf
+      internalID: -1322242156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154487cc53b45a49b7b8cd2e020feba
+      internalID: -715133175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef28d5027bfe3428c8b18eb01564b6
+      internalID: 603332366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceball_84x9_59
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 9
+        width: 84
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5b10a94a93f3040b142f701f716cce
+      internalID: 1156618279
       vertices: []
       indices: 
       edges: []
@@ -1449,69 +1386,66 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      charlieTheCapybaraAnimationSheet_56: -306672603
-      charlieTheCapybaraAnimationSheet_26: -1906011001
-      charlieTheCapybaraAnimationSheet_29: -391158206
-      charlieTheCapybaraAnimationSheet_59: -888169317
-      charlieTheCapybaraAnimationSheet_42: 405000648
-      charlieTheCapybaraAnimationSheet_16: 696388285
-      charlieTheCapybaraAnimationSheet_24: -1855490397
-      charlieTheCapybaraAnimationSheet_2: 1895275889
-      charlieTheCapybaraAnimationSheet_52: -1234422113
-      charlieTheCapybaraAnimationSheet_25: -1143773797
-      charlieTheCapybaraAnimationSheet_48: 623718429
-      charlieTheCapybaraAnimationSheet_54: 1059620675
-      charlieTheCapybaraAnimationSheet_8: 1744368976
-      charlieTheCapybaraAnimationSheet_14: 886998414
-      charlieTheCapybaraAnimationSheet_4: 1266624439
-      charlieTheCapybaraAnimationSheet_39: -2102254771
-      charlieTheCapybaraAnimationSheet_15: 1991053285
-      charlieTheCapybaraAnimationSheet_44: -623201394
-      charlieTheCapybaraAnimationSheet_47: -1930542876
-      charlieTheCapybaraAnimationSheet_13: 2047388636
-      charlieTheCapybaraAnimationSheet_32: -978687883
-      charlieTheCapybaraAnimationSheet_33: -454238725
-      charlieTheCapybaraAnimationSheet_18: -393420234
-      charlieTheCapybaraAnimationSheet_35: -602633011
-      charlieTheCapybaraAnimationSheet_3: -640834469
-      charlieTheCapybaraAnimationSheet_19: -1296814748
-      charlieTheCapybaraAnimationSheet_17: 2057884732
-      charlieTheCapybaraAnimationSheet_28: -909273311
-      charlieTheCapybaraAnimationSheet_38: 885079621
-      charlieTheCapybaraAnimationSheet_11: -2069059118
-      charlieTheCapybaraAnimationSheet_46: 1441571957
-      charlieTheCapybaraAnimationSheet_37: -1696871992
-      charlieTheCapybaraAnimationSheet_49: 1225198649
-      charlieTheCapybaraAnimationSheet_60: 2119222507
-      charlieTheCapybaraAnimationSheet_6: 338768908
-      charlieTheCapybaraAnimationSheet_53: -801912630
-      charlieTheCapybaraAnimationSheet_10: 1646574207
-      charlieTheCapybaraAnimationSheet_23: 1449197059
-      charlieTheCapybaraAnimationSheet_22: -227228833
-      charlieTheCapybaraAnimationSheet_45: 1219937624
-      charlieTheCapybaraAnimationSheet_12: -348555325
-      charlieTheCapybaraAnimationSheet_21: -1485669017
-      charlieTheCapybaraAnimationSheet_51: 1104816087
-      charlieTheCapybaraAnimationSheet_30: 1369202104
-      charlieTheCapybaraAnimationSheet_55: 938990947
-      charlieTheCapybaraAnimationSheet_20: 147388463
-      charlieTheCapybaraAnimationSheet_61: 1858516624
-      charlieTheCapybaraAnimationSheet_36: -819363765
-      charlieTheCapybaraAnimationSheet_34: -1877575352
-      charlieTheCapybaraAnimationSheet_62: -1606451254
-      charlieTheCapybaraAnimationSheet_5: 1694431166
-      charlieTheCapybaraAnimationSheet_31: -1005132838
-      charlieTheCapybaraAnimationSheet_40: -95478381
-      charlieTheCapybaraAnimationSheet_41: 70694566
-      charlieTheCapybaraAnimationSheet_50: 1054360105
-      charlieTheCapybaraAnimationSheet_27: 1946119480
-      charlieTheCapybaraAnimationSheet_1: -202326013
-      charlieTheCapybaraAnimationSheet_7: -1046864359
-      charlieTheCapybaraAnimationSheet_0: 1477501020
-      charlieTheCapybaraAnimationSheet_57: 407890096
-      charlieTheCapybaraAnimationSheet_43: -1148330567
-      charlieTheCapybaraAnimationSheet_58: -1624540893
-      charlieTheCapybaraAnimationSheet_9: -660200614
+      Iceball_84x9_11: 1073588617
+      Iceball_84x9_44: -240165220
+      Iceball_84x9_26: -1990634772
+      Iceball_84x9_18: -920737457
+      Iceball_84x9_56: -1322242156
+      Iceball_84x9_43: -785199065
+      Iceball_84x9_19: -371201739
+      Iceball_84x9_17: -525260135
+      Iceball_84x9_24: -1455585614
+      Iceball_84x9_57: -715133175
+      Iceball_84x9_53: -355750620
+      Iceball_84x9_27: -1215501471
+      Iceball_84x9_37: 818171370
+      Iceball_84x9_55: 285626835
+      Iceball_84x9_59: 1156618279
+      Iceball_84x9_29: 989181723
+      Iceball_84x9_15: 352560596
+      Iceball_84x9_48: 1300038200
+      Iceball_84x9_49: 195356710
+      Iceball_84x9_50: 362275794
+      Iceball_84x9_3: 797783605
+      Iceball_84x9_20: 2094149185
+      Iceball_84x9_16: -245184620
+      Iceball_84x9_4: 1055922259
+      Iceball_84x9_9: 2079028461
+      Iceball_84x9_46: 644822182
+      Iceball_84x9_7: 888131187
+      Iceball_84x9_5: 877845465
+      Iceball_84x9_10: 1823124279
+      Iceball_84x9_34: -486401580
+      Iceball_84x9_47: 599460733
+      Iceball_84x9_52: -575173986
+      Iceball_84x9_45: -1248023176
+      Iceball_84x9_8: 431375236
+      Iceball_84x9_14: 57376624
+      Iceball_84x9_13: -1226935623
+      Iceball_84x9_30: -402070392
+      Iceball_84x9_0: 1085401508
+      Iceball_84x9_1: 486685671
+      Iceball_84x9_36: -1441874423
+      Iceball_84x9_32: -152046199
+      Iceball_84x9_21: 668770431
+      Iceball_84x9_28: 1302996900
+      Iceball_84x9_54: 1219498567
+      Iceball_84x9_31: -107712643
+      Iceball_84x9_42: -608218153
+      Iceball_84x9_58: 603332366
+      Iceball_84x9_40: -74106625
+      Iceball_84x9_41: 1059305644
+      Iceball_84x9_12: 429874279
+      Iceball_84x9_23: 1221095669
+      Iceball_84x9_35: -943872461
+      Iceball_84x9_39: 1944829054
+      Iceball_84x9_6: -17577081
+      Iceball_84x9_33: 667465027
+      Iceball_84x9_38: -1949261780
+      Iceball_84x9_22: -319852483
+      Iceball_84x9_25: -2105174839
+      Iceball_84x9_2: 1833326085
+      Iceball_84x9_51: -1496914781
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
