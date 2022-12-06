@@ -17,5 +17,7 @@ public class CameraMovement : MonoBehaviour
     void Update()
     {
         transform.position = objectToFollow.transform.position + _offset;
+        //transform.position = new Vector3(objectToFollow.position.x, transform.position.y, transform.position.z);
+        
     }
 }
