@@ -28,8 +28,14 @@ public class Player : MonoBehaviour
     {
         FlipSprite();
         Jump();
+
     }
 
+    void PlayerMovement()
+    {
+        float horizontalInput = Input.GetAxis("Horizontal");
+        _playerRb.velocity = new Vector2(horizontalInput = speed, _playerRb.velocity.y);
+    }
     void FlipSprite()
     {
         bool playerHasHorizontalSpeed = Mathf.Abs(_playerRb.velocity.x) > Mathf.Epsilon;
