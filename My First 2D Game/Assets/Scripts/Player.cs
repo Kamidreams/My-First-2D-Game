@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     public bool isOnGround = false;
     public bool isGameOver = false; 
     private float _horizontalInput;
+    private float _verticalInput;
     private Animator _playerAnim;
     private Collider2D _myCollider;
     private Rigidbody2D _playerRb;
@@ -27,24 +28,14 @@ public class Player : MonoBehaviour
     {
         FlipSprite();
         Jump();
-
+        PlayerMovement();
     }
 
    void PlayerMovement()
     {
-         _horizontalInput = Input.GetAxis("Horizontal");
+        float horizontalInput = Input.GetAxis("Horizontal");
 
-        transform.Translate(Vector3.right * _horizontalInput * speed * Time.deltaTime);
-
-        if(transform.position.x > xRange)
-        {
-            transform.position = new Vector3(xRange, transform.position.y, transform.position.z);
-        }
-
-        if(transform.position.x < -xRange)
-        {
-            transform.position = new Vector3(-xRange, transform.position.y, transform.position.z);
-        }
+        _playerRb.velocity = new Vector2(horizontalInput * speed, _playerRb.velocity.y);
     }
     void FlipSprite()
     {
