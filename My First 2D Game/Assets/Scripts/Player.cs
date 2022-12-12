@@ -62,4 +62,12 @@ public class Player : MonoBehaviour
             _playerRb.velocity = new Vector2(_playerRb.velocity.x, jumpForce);
         }
     }
+
+    private void OnTriggerEnter(Collider other) 
+    {
+        if(other.gameObject.CompareTag("Finish"))
+        {
+            //
+        }
+    }
 }
