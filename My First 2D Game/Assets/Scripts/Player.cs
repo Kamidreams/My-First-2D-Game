@@ -62,12 +62,25 @@ public class Player : MonoBehaviour
             _playerRb.velocity = new Vector2(_playerRb.velocity.x, jumpForce);
         }
     }
-
-    private void OnTriggerEnter(Collider other) 
+    void Updater()
     {
-        if(other.gameObject.CompareTag("Finish"))
+         if(Input.GetKeyDown(KeyCode.Space) && isOnGround && !isGameOver)
         {
-            //
+            _playerRb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+
+            isOnGround = false;
+            _playerAnim.SetBool("IsOnGround", false);
         }
+        float horizontalInput = Input.GetAxis("Horizontal");
     }
+
+   private void OnCollisionEnter2D(Collision2D other)
+        {
+            if(other.gameObject.CompareTag("Ground"))
+            {
+                isOnGround = true;
+                _playerAnim.SetBool("IsOnGround", true);
+            }
+        }
+
 }

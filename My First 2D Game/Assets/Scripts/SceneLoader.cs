@@ -15,13 +15,11 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
-
-    public void Game()
+    public void Info()
     {
         SceneManager.LoadScene(1);
     }
-
-    public void Info()
+     public void Game()
     {
         SceneManager.LoadScene(2);
     }

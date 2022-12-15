@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class Destroy : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public float floor = -15;
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(transform.position.y < floor)
+        {
+            Destroy(this.gameObject);
+        }
     }
 }
