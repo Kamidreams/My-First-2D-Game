@@ -187,18 +187,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32ac9f0f58b72174ca9ee168777440a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collectible1: {fileID: 6469424517451841864, guid: 4ac01051f52c29b4690a990d2293c3c6, type: 3}
-  Collectible2: {fileID: 0}
-  Collectible3: {fileID: 0}
-  Collectible4: {fileID: 0}
-  Collectible5: {fileID: 0}
-  Collectible6: {fileID: 0}
-  Collectible7: {fileID: 0}
-  Collectible8: {fileID: 0}
-  Collectible9: {fileID: 0}
-  Collectible10: {fileID: 0}
-  XRange: 23
-  YRange: 7.32
 --- !u!1 &398488073
 GameObject:
   m_ObjectHideFlags: 0
@@ -4306,6 +4294,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420033}
+  - component: {fileID: 519420034}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -4392,6 +4381,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToFollow: {fileID: 398488073}
+--- !u!114 &519420034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f6173ae25e254541b5528ce85195732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &555493679 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2669810757861813520, guid: 85152a61081bb7945bba065d2f0e975a, type: 3}
