@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CapyFinish.unity
     guid: 44a925c75909ac2469f498e6f04205e8
+  - enabled: 1
+    path: Assets/Scenes/CapyFail.unity
+    guid: 2d79fd8e4a9c3004f868e41e2b11755a
   m_configObjects: {}
