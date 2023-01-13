@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2699911194829986697}
   - component: {fileID: 2699911194829986694}
   - component: {fileID: 2699911194829986695}
+  - component: {fileID: 2698190724941382656}
   m_Layer: 0
   m_Name: Collectible 8
   m_TagString: Untagged
@@ -25,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2699911194829986696}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 59.54, y: -4.43, z: 10.367717}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -71,8 +72,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 811766053
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 219649552, guid: 21e323f8237171044ae04ea2fda577d8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -95,7 +96,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -117,3 +118,15 @@ PolygonCollider2D:
       - {x: 0.4375, y: 0.5}
       - {x: -0.03125, y: 0.5}
       - {x: -0.5, y: -0.1875}
+--- !u!114 &2698190724941382656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2699911194829986696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32ac9f0f58b72174ca9ee168777440a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

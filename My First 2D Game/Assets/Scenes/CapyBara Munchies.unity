@@ -384,6 +384,7 @@ MonoBehaviour:
   xRange: 0
   isOnGround: 0
   isGameOver: 0
+  _Veg: 0
 --- !u!50 &398488078
 Rigidbody2D:
   serializedVersion: 4

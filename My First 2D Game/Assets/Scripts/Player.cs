@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     private Animator _playerAnim;
     private Collider2D _myCollider;
     private Rigidbody2D _playerRb;
+    [SerializeField] private int _Veg;
 
     // Start is called before the first frame update
     void Start()

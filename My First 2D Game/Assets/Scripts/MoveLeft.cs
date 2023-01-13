@@ -4,23 +4,20 @@ using UnityEngine;
 
 public class MoveLeft : MonoBehaviour
 {
-   public float movespeed = 10;
-
-    private Player _playerScript;
+   public float _xRange = 18;
 
     // Start is called before the first frame update
     void Start()
     {
-        _playerScript = GameObject.Find("Capy").GetComponent<Player>();
+       
     }
 
     // Update is called once per frame
     void Update()
     {
-        //if(_playerScript.isGameOver == false) can also work for below
-        if(!_playerScript.isGameOver)
+        if(transform.position.x < -_xRange)
         {
-            transform.Translate(Vector2.left * movespeed * Time.deltaTime);
+            transform.position = new Vector2(_xRange, 0);
         }
     }
 }

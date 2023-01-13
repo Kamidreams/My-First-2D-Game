@@ -18,10 +18,4 @@ public class GameManager : MonoBehaviour
     {
         
     }
-    private Vector3 GenerateRandomSpawnPos()
-    {
-        int index = Random.Range(0, spawnLocations.);
-        Vector3 location = ;
-        return location;
-    }
 }

@@ -27,4 +27,8 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+    public void Lose()
+    {
+        SceneManager.LoadScene(4);
+    }
 }

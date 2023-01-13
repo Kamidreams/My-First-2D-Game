@@ -9,6 +9,7 @@ public class Capy : MonoBehaviour
     private Animator _capyAnim;
     private Collider2D _Collider;
      private Rigidbody2D _capyRb;
+     public float speed = 10;
     // Start is called before the first frame update
     void Start()
     {
