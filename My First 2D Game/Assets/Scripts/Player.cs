@@ -5,10 +5,13 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float speed = 10;
-     public float jumpForce = 10;
-     public float xRange;
+    public float jumpForce = 10;
+    public float xRange;
+    public float VegCollect = 10;
+    public GameObject VegIndicator;
     public bool isOnGround = false;
     public bool isGameOver = false; 
+    public bool HasCollectible = false;
     private float _horizontalInput;
     private float _verticalInput;
     private Animator _playerAnim;
@@ -30,6 +33,15 @@ public class Player : MonoBehaviour
         FlipSprite();
         Jump();
         PlayerMovement();
+    }
+      private void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.gameObject.CompareTag("Collectible"))
+        {
+            Destroy(other.gameObject);
+            VegIndicator.gameObject.SetActive(true);
+            HasCollectible = true;
+        }
     }
 
    void PlayerMovement()

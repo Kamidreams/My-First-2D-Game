@@ -383,8 +383,11 @@ MonoBehaviour:
   speed: 10
   jumpForce: 12
   xRange: 0
+  VegCollect: 10
+  VegIndicator: {fileID: 2127449408}
   isOnGround: 0
   isGameOver: 0
+  HasCollectible: 0
   _Veg: 0
 --- !u!50 &398488078
 Rigidbody2D:
