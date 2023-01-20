@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CapyFail.unity
     guid: 2d79fd8e4a9c3004f868e41e2b11755a
+  - enabled: 1
+    path: Assets/Scenes/CapyCredits.unity
+    guid: 9022af247969c124fb0404d013bdf2ec
   m_configObjects: {}
